@@ -1,12 +1,8 @@
-## **COMP7250 Machine Learning Course Project**
+## ** Machine Learning Course Project**
 
 ---
 
 ### **Topic - 3: Bag of tricks for effective training**
-
----
-
-##### Name: Zheng Yifei            Student ID: 22432035
 
 ----
 
