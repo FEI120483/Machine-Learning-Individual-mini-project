@@ -43,7 +43,3 @@ cifar10 = datasets.CIFAR10(root='../data',download = True)
 # Common Problem
 
 If there is no CUDA(Error like graph1), delete `model.cuda()` from function `fit_one_cycle`, and then restrat again.
-
-![Screenshot 2023-03-30 at 16.57.37.png](/var/folders/8q/8d08rsmx5jzfrj_nt62_x0n80000gn/T/TemporaryItems/NSIRD_screencaptureui_rVqBXX/Screenshot%202023-03-30%20at%2016.57.37.png)
-
-![Screenshot 2023-03-30 at 16.58.36.png](/Users/henryzheng/Desktop/Screenshot%202023-03-30%20at%2016.58.36.png)
